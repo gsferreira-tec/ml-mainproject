@@ -10,4 +10,7 @@
   - Python packages:
     - `jupyter-git` extension
     - `jupyter`, `pandas`, `scikit-learn`, `numpy`, `matplotlib`, `pillow` can be installed at once with the command:
-      - `pip install pandas sklearn scikit-learn numpy matplotlib pillow jupyter`
+    
+    ```bash 
+    pip install pandas sklearn scikit-learn numpy matplotlib pillow jupyter 
+    ```
