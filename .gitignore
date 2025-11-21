@@ -1,0 +1,21 @@
+# Ignore images under project/data
+project/data/
+
+# Track metadata CSVs 
+!project/data/*.csv
+
+# Common image formats
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.tif
+*.tiff
+*.TIFF
+
+# Older patterns – keep if present elsewhere
+data/
+test/
+project/data/**
