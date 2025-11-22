@@ -1,0 +1,13 @@
+# Minimum recommended packages to run the notebooks and example training code
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.5
+Pillow>=9.0
+scikit-learn>=1.2
+tensorflow>=2.11,<3.0
+jupyter>=1.0
+ipykernel>=6.0
+
+# Optional (if using additional tools)
+# seaborn
+# opencv-python
