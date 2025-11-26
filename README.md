@@ -4,7 +4,7 @@ This repository contains the Jupyter notebook and dataset used for the main proj
 IMPORTANT: Keep the `project/data/` paths and directory structure unchanged unless you adapt the notebook paths.
 
 ### Prerequisites
-- Recommended Python: 3.10 - 3.12 (use Python 3.10+). Using a virtual environment is strongly recommended.
+- Since tensorflow does not support 3.13+ you are recommended to use between 3.10 - 3.12 . Using a virtual environment is strongly recommended.
 - System packages: `git`, `python3`, and optionally `nodejs` & `npm` for notebook integrations.
 
 ### Python dependencies
